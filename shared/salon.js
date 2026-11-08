@@ -48,9 +48,9 @@ export const salon = {
   },
   bookingWindowDays: 45,
   socials: [
-    { id: 'instagram', label: 'Instagram', href: 'https://instagram.com/' },
+    { id: 'instagram', label: 'Instagram', href: 'https://www.instagram.com/raju_hair_salon1998/' },
     { id: 'facebook', label: 'Facebook', href: 'https://facebook.com/' },
-    { id: 'x', label: 'X', href: 'https://x.com/' },
+    { id: 'youtube', label: 'YouTube', href: 'https://www.youtube.com/@Raju.HairSaloon' },
   ],
   gallery: [
     { title: 'The Atelier', image: '/images/gallery-atelier.jpg', alt: 'Bright salon interior with styling chairs' },
@@ -66,7 +66,7 @@ export const salon = {
     {
       id: 'haircut',
       name: 'Haircut',
-      price: 499,
+      // price: 499,
       durationMinutes: 45,
       durationLabel: '45 min',
       description: 'A consult, a precise cut, and a finish shaped to the way you actually wear your hair.',
@@ -76,7 +76,7 @@ export const salon = {
     {
       id: 'beard',
       name: 'Beard Styling',
-      price: 299,
+      // price: 299,
       durationMinutes: 30,
       durationLabel: '30 min',
       description: 'Shape, line-up, and a hot-towel finish so the beard looks considered, not clipped in a hurry.',
@@ -86,7 +86,7 @@ export const salon = {
     {
       id: 'wash',
       name: 'Hair Wash',
-      price: 199,
+      // price: 199,
       durationMinutes: 30,
       durationLabel: '30 min',
       description: 'A scalp cleanse and conditioning ritual. A quiet reset before the rest of the day.',
@@ -96,7 +96,7 @@ export const salon = {
     {
       id: 'color',
       name: 'Hair Coloring',
-      price: 1499,
+      // price: 1499,
       durationMinutes: 90,
       durationLabel: '90 min',
       description: 'Dimensional colour, grey blending, or a full refresh with salon-grade colour.',
@@ -106,7 +106,7 @@ export const salon = {
     {
       id: 'facial',
       name: 'Facial',
-      price: 799,
+      // price: 799,
       durationMinutes: 45,
       durationLabel: '45 min',
       description: 'A clarifying facial that leaves skin calm, even, and ready to be seen up close.',
@@ -116,7 +116,7 @@ export const salon = {
     {
       id: 'spa',
       name: 'Hair Spa',
-      price: 999,
+      // price: 999,
       durationMinutes: 60,
       durationLabel: '60 min',
       description: 'Deep conditioning and repair for hair that has had enough of the city, sun, and heat.',
