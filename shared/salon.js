@@ -10,7 +10,7 @@ export const salon = {
   established: '2014',
   city: 'Mumbai',
   hero: {
-    eyebrow: 'Private grooming · Bandra',
+    eyebrow: 'Private grooming · Sowaddi, Ludhiana',
     titleLead: 'Your Style.',
     titleAccent: 'Your Identity.',
     text: 'A quiet room for precise cuts, considered colour, and grooming that feels unhurried. Senior stylists, calm light, and an hour that belongs only to you.',
@@ -19,7 +19,7 @@ export const salon = {
     eyebrow: 'The house',
     title: 'Grooming, done with patience.',
     paragraphs: [
-      'Raju Hair Salon opened in Bandra as a small chair and a point of view: a haircut should feel like it was made for one person, not pulled from a menu of trends.',
+      'Raju Hair Salon opened in Sowaddi, Ludhiana as a small chair and a point of view: a haircut should feel like it was made for one person, not pulled from a menu of trends.',
       'Twelve years on, the room is still unhurried. We work with a short list of services, salon-grade colour and care, and stylists who would rather ask one more question than rush the finish.',
     ],
     highlights: [
