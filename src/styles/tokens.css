@@ -1,0 +1,27 @@
+:root {
+  --black: #090909;
+  --ink: #111111;
+  --charcoal: #171717;
+  --panel: #141414;
+  --grey: #2a2a2a;
+  --line: rgba(212, 180, 131, 0.28);
+  --gold: #d4b483;
+  --gold-deep: #b8925a;
+  --gold-soft: rgba(212, 180, 131, 0.14);
+  --cream: #f6f1e7;
+  --cream-dim: #d9d0c3;
+  --muted: #b7ad9f;
+  --danger: #f0b2a8;
+  --serif: "Cormorant Garamond", "Times New Roman", serif;
+  --sans: "Outfit", "Segoe UI", sans-serif;
+  --nav-h: 78px;
+  --radius: 18px;
+  --shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@media (max-width: 720px) {
+  :root {
+    --nav-h: 68px;
+  }
+}
